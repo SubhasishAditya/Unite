@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891514232622",
+    "project_id": "unite1-30db8",
+    "storage_bucket": "unite1-30db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891514232622:android:24567b277da7900e8424bf",
+        "android_client_info": {
+          "package_name": "com.aditya.unite1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891514232622-ve72gib98ohd7irfcne9m59521savc3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7QkRZllMXomLgE3LKScMN91ChLGpvrjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891514232622-ve72gib98ohd7irfcne9m59521savc3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
